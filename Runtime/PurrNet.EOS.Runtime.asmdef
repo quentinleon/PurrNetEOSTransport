@@ -1,0 +1,24 @@
+{
+  "name": "PurrNet.EOS.Runtime",
+  "rootNamespace": "PurrNet.EOS",
+  "references": [
+    "GUID:6e20f757a1bae164fa42750dd2b27dcb",
+    "GUID:be1f6e9efffcfce41aeb5c2f4c27cf75",
+    "GUID:3a63500f0eef43a438c0553491f7c5da"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [
+    {
+      "name": "com.playeveryware.eos",
+      "expression": "",
+      "define": "EOS_SDK"
+    }
+  ],
+  "noEngineReferences": false
+}

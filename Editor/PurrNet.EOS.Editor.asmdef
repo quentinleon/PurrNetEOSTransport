@@ -1,0 +1,24 @@
+{
+  "name": "PurrNet.EOS.Editor",
+  "rootNamespace": "",
+  "references": [
+    "GUID:deb244bc19880ee47881b4c842d4e497"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [
+    {
+      "name": "com.playeveryware.eos",
+      "expression": "",
+      "define": "EOS_SDK"
+    }
+  ],
+  "noEngineReferences": false
+}
